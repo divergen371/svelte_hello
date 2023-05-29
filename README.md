@@ -1,5 +1,16 @@
 # SvelteHello
 
+SvelteとPhoenix1.7で遊んでみる
+
+## 各種ソフトウェアのバージョン
+
+* Erlang/OTP25
+* Elixir 1.14.2
+* Phoenix 1.7.2
+* node v19.7.0
+
+
+
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
