@@ -52,6 +52,8 @@ window.onload = async function () {
     return;
   }
 
-  let props = {};
+  let props = {
+    name: "Phoenix"
+  };
   const component = new Greeter({ target, props });
 };
